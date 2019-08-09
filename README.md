@@ -1,3 +1,7 @@
+## Para usar la app
+
+```npm install```
+
 ### Paginas usadas para el request
 ```
 Bajo promesas
