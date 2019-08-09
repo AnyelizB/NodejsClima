@@ -22,8 +22,20 @@ https://www.npmjs.com/package/request
 
 ### Cuenta  openweather
 
-```https://home.openweathermap.org/
+```
+https://home.openweathermap.org/
 
 key funciona: cc235c3fc0f79da55c7ae4cfbb82c1c3
 
-api.openweathermap.org/data/2.5/weather?lat=35&lon=139&appid=cc235c3fc0f79da55c7ae4cfbb82c1c3&units=metric```
+api.openweathermap.org/data/2.5/weather?lat=35&lon=139&appid=cc235c3fc0f79da55c7ae4cfbb82c1c3&units=metric
+```
+### Uso de git tag
+
+ ```
+git tag -a v1.0.0 -m "Primera version"
+
+git tag
+
+git push --tags
+
+ ```
